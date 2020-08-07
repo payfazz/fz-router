@@ -1,4 +1,4 @@
-package fazzrouter
+package router
 
 import (
 	"fmt"
