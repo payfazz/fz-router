@@ -1,0 +1,4 @@
+github.com/payfazz/go-middleware v0.0.0-20200721081005-61cf397e357e h1:BPK5VyLLcGznHqdTbXBasnAetWIvfzWREqZUW55fULg=
+github.com/payfazz/go-middleware v0.0.0-20200721081005-61cf397e357e/go.mod h1:YwCs+VnHqPqJfJo6ZQ7oYfbSeKxhrdVpkmuMVbgVQvY=
+github.com/payfazz/go-router v0.0.0-20200605124530-83a4c2fcae37 h1:UAILoySQJegx5DsH6maJY2nLAEQHTYCNUkMpkVQ4T9c=
+github.com/payfazz/go-router v0.0.0-20200605124530-83a4c2fcae37/go.mod h1:W0qhPdSb1Tf8FS6V4eZ/GgDQMUzKO6ZlKA6WV/n6nbc=
