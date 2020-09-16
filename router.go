@@ -20,6 +20,10 @@ type Route struct {
 	Groups          []*Route
 }
 
+func BaseRoute() *Route {
+	return &Route{}
+}
+
 func (r *Route) Compile() http.HandlerFunc {
 	pathHandlers := path.H{}
 	endpoints := r.compileEndpoints()
